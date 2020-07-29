@@ -16,6 +16,8 @@ The designs in the previous iterations has help us to explore new features that 
 
 ### Wireframes (PowerPoint or any other tool)
 
+![PPT](https://github.com/SafraRafiq/Phase-3/blob/master/prototype.pptx)
+
 ### physical prototypes 
 
 ![Prototype3](https://github.com/SafraRafiq/Phase-3/blob/master/p3.PNG)
